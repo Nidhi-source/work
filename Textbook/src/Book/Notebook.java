@@ -6,5 +6,7 @@ public class Notebook {
 
 		
 		System.out.println(" This is second lesson");
+		
+		System.out.println("This is third lesson");
 	}
 }
